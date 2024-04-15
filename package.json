@@ -1,0 +1,23 @@
+{
+  "name": "rating-games",
+  "version": "1.0.0",
+  "description": "ничего здесть интересного нет, просто описание)",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yachilenok/rating-games.git"
+  },
+  "author": "Yachilenok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yachilenok/rating-games/issues"
+  },
+  "homepage": "https://github.com/Yachilenok/rating-games#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
